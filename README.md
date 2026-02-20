@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Nice meeting you, I’m Aditya Raj!<br><br>🔭 I’m currently working on full-stack web development projects using JavaScript, React, Node.js, and MongoDB<br>💬 Ask me about Web Development, JavaScript, React, Git/GitHub<br>🌱 I’m currently learning Data Structures & Algorithms, and Generative AI<br>📫 How to reach me: Email – adityarajmanav@gmail.com<br> | LinkedIn – aditya-raj-1875662<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I’m not coding, I’m probably upgrading one of my projects or learning something new 🚀
+Hi there 👋<br>Nice meeting you, I’m Aditya Raj!<br><br>🔭 I’m currently working on full-stack web development projects using JavaScript, React, Node.js, and MongoDB<br>💬 Ask me about Web Development, JavaScript, React, Git/GitHub<br>🌱 I’m currently learning Data Structures & Algorithms, and Generative AI<br>📫 How to reach me: Email – adityarajmanav@gmail.com<br> | LinkedIn – aditya-raj-1875662<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I’m not coding, I’m probably upgrading one of my projects or learning something new 
 
 
 ## 🌐 Socials:
