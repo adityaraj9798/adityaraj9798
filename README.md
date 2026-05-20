@@ -115,29 +115,8 @@ const aditya = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaraj9798&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=adityaraj9798&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaraj9798&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-
+  <img src="https://streak-stats.demolab.com/?user=adityaraj9798&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaraj9798/adityaraj9798/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaraj9798/adityaraj9798/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/adityaraj9798/adityaraj9798/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚙️ To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG. See [Platane/snk](https://github.com/Platane/snk) for setup.
 
 ---
 
