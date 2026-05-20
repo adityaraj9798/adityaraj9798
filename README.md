@@ -104,7 +104,15 @@ const aditya = {
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -115,46 +123,6 @@ const aditya = {
 
 <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaraj9798&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj9798&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔍 Area | 📌 Status |
-|--------|----------|
-| Full-Stack Development | 🟢 Active |
-| Data Structures & Algorithms | 🟡 In Progress |
-| Generative AI | 🟡 Exploring |
-| Open Source Contributions | 🔵 Planning |
-| System Design | 🔵 Upcoming |
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
 
 ---
