@@ -107,15 +107,7 @@ const aditya = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-  <!-- Row 1: Top 4 trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S" />
-
-  <br/>
-
-  <!-- Row 2: Next 4 trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=AAA,AA,A,B" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 ---
