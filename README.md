@@ -107,23 +107,15 @@ const aditya = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
-</div>
 
----
+  <!-- Row 1: Top 4 trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S" />
 
-## 📊 GitHub Stats
+  <br/>
 
-<div align="center">
+  <!-- Row 2: Next 4 trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=AAA,AA,A,B" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj9798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj9798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj9798&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
