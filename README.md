@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=adityaraj9798&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/aditya-raj-1875662">
+  <a href="https://www.linkedin.com/in/aditya-raj-187566275/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -108,13 +108,6 @@ const aditya = {
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&hide_border=true&no-frame=true&row=1&margin-w=15" width="90%"/>
-
-</div>
-
-<div align="center">
-
   <!-- Streak Stats - shows current & longest streak -->
   <img src="https://streak-stats.demolab.com/?user=adityaraj9798&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
@@ -126,7 +119,7 @@ const aditya = {
 
 ### 🤝 Let's Connect & Build Something Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-1875662)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-187566275/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarajmanav@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaraj9798)
 
