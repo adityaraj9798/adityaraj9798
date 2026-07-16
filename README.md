@@ -108,11 +108,8 @@ const aditya = {
 
 <div align="center">
 
-  <!-- GitHub Stats Card - shows stars, commits, PRs, issues, contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj9798&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%"/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj9798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj9798&theme=tokyonight&hide_border=true&no-frame=true&row=1&margin-w=15" width="90%"/>
 
 </div>
 
