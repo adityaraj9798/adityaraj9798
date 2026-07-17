@@ -43,7 +43,6 @@ const aditya = {
   learning  : ["Data Structures & Algorithms", "Generative AI"],
   interests : ["Building products", "UI/UX design", "Open Source"],
   contact   : "adityarajmanav@gmail.com",
-  funFact   : "If I'm not coding, I'm upgrading one of my projects 🔧"
 };
 ```
 
