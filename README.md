@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aditya%20Raj&fontSize=70&fontAlignY=40&fontColor=00d4ff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=65&descSize=20&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Aditya%20Raj&fontSize=70&fontAlignY=40&fontColor=00d4ff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%20Explorer&descAlignY=65&descSize=20&descColor=a0aec0" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%2B+Node.js+%2B+MongoDB+Enthusiast;Learning+DSA+%26+Generative+AI+%F0%9F%A4%96;Always+Shipping%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Data+Analyst+Intern+%F0%9F%93%8A+%7C+SQL+%2B+Excel+%2B+Power+BI;React+%2B+Node.js+%2B+MongoDB+Enthusiast;Learning+DSA+%26+Generative+AI+%F0%9F%A4%96;Always+Shipping%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,23 +33,31 @@
 
 ## 🧠 About Me
 
-```ts
-const aditya = {
-  name      : "Aditya Raj",
-  role      : "Full-Stack Developer",
-  pronouns  : "He / His",
-  location  : "India 🇮🇳",
-  stack     : ["JavaScript", "React", "Node.js", "MongoDB", "Next.js"],
-  learning  : ["Data Structures & Algorithms", "Generative AI"],
-  interests : ["Building products", "UI/UX design", "Open Source"],
-  contact   : "adityarajmanav@gmail.com",
-};
-```
+I'm **Aditya** — a full-stack developer who also speaks fluent spreadsheet. By day I ship React/Node apps end-to-end; by internship I dug through raw datasets as a **Data Analyst Intern**, turning messy rows into dashboards people actually acted on.
+
+I like products with two halves: a slick interface up front, and solid numbers backing every decision behind it. That's the intersection I live in — **building the thing, and proving the thing works.**
+
+<div align="center">
+
+| 🎯 Focus | 💬 Detail |
+|:---|:---|
+| **Role** | Full-Stack Developer & Data Analyst |
+| **Based in** | India 🇮🇳 |
+| **Web stack** | JavaScript · React · Node.js · MongoDB · Next.js |
+| **Data toolkit** | SQL · Excel · Power BI · Tableau |
+| **Currently leveling up** | Data Structures & Algorithms, Generative AI |
+| **Down for** | Open source, dashboards, side projects, good ideas |
+| **Reach me** | [adityarajmanav@gmail.com](mailto:adityarajmanav@gmail.com) |
+
+</div>
+
+> *"Code ships features. Data tells you if they worked."*
 
 ---
 
 ## 🚀 What I'm Up To
 
+- 📊 &nbsp; Wrapped up a **Data Analyst Internship**, working with **SQL, Excel & Power BI/Tableau** to turn raw data into insights and dashboards
 - 🔭 &nbsp; Building **full-stack web apps** with React, Node.js & MongoDB
 - 🌱 &nbsp; Sharpening my skills in **DSA** and diving into **Generative AI**
 - 💡 &nbsp; Always exploring new tools, frameworks, and ideas
@@ -77,6 +85,12 @@ const aditya = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Data Analysis
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
