@@ -33,25 +33,11 @@
 
 ## 🧠 About Me
 
-I'm **Aditya** — a full-stack developer who also speaks fluent spreadsheet. By day I ship React/Node apps end-to-end; by internship I dug through raw datasets as a **Data Analyst Intern**, turning messy rows into dashboards people actually acted on.
+🇮🇳 India-based **Full-Stack Dev** who moonlights as a **Data Analyst** — I build the product with React/Node, then pull up the numbers with SQL, Excel & Power BI to prove it's working.
 
-I like products with two halves: a slick interface up front, and solid numbers backing every decision behind it. That's the intersection I live in — **building the thing, and proving the thing works.**
+**Code ships it. Data proves it.** ⚡
 
-<div align="center">
-
-| 🎯 Focus | 💬 Detail |
-|:---|:---|
-| **Role** | Full-Stack Developer & Data Analyst |
-| **Based in** | India 🇮🇳 |
-| **Web stack** | JavaScript · React · Node.js · MongoDB · Next.js |
-| **Data toolkit** | SQL · Excel · Power BI · Tableau |
-| **Currently leveling up** | Data Structures & Algorithms, Generative AI |
-| **Down for** | Open source, dashboards, side projects, good ideas |
-| **Reach me** | [adityarajmanav@gmail.com](mailto:adityarajmanav@gmail.com) |
-
-</div>
-
-> *"Code ships features. Data tells you if they worked."*
+📫 [adityarajmanav@gmail.com](mailto:adityarajmanav@gmail.com)
 
 ---
 
